@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SujayTalanki
 - 👀 I’m a Data Science major at University of California, San Diego (Junior). I am looking for an internship in the Data Science field
-- 🌱 I’m currently learning basic machine learning classification and model selection methods
+- 🌱 I’m currently learning about basic machine learning classification and model testing/selection methods
 - 📫 How to reach me: email: talankisujay@gmail.com, phone: (916) 846 - 1141
 
 <!---

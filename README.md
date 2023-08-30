@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SujayTalanki
-- 👀 I’m a Data Science major at University of California, San Diego (Junior). I am looking for an internship in the Data Science field
-- 🌱 I’m currently learning about basic machine learning classification and model testing/selection methods
+- 👀 I’m a Data Science major at University of California, San Diego (Senior). I am looking for experience in the Data Science field
+- 🌱 I’m interested in machine learning, AI, and LLM applications. I also want to learn more about cloud computing
 k
 <!---
 SujayTalanki/SujayTalanki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
